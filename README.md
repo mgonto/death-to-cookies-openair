@@ -1,8 +1,8 @@
-## A token walkts into a SPA...
+## Death to cookies; Long live JSON Web tokens
 
-This are the slides for the talk A token walkts into a SPA...? It shows how to add authentication to an Angular 2 app
+This are the slides for the talk Death to cookies; Long live JSON Web tokens. This talk was done at OpenAIR from AirBNB
 
-You can see them at [http://mgonto.github.io/a-token-walks-into-a-SPA/](http://mgonto.github.io/a-token-walks-into-a-SPA/)
+You can see them at [http://mgonto.github.io/death-to-cookies-openair/](http://mgonto.github.io/death-to-cookies-openair/)
 
 ## Thanks
 
